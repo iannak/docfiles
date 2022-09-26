@@ -1,4 +1,4 @@
-# Girol Dotfiles
+# Dotfiles
 
 This project uses [GNU Stow](https://www.gnu.org/software/stow/) to distribute links and packages
 
@@ -7,7 +7,7 @@ This project uses [GNU Stow](https://www.gnu.org/software/stow/) to distribute l
 1. Clone the project to your home folder and `cd` into it:
 
 ```shell
-git clone https://github.com/girol/dotfiles.git ~/.dotfiles
+git clone https://github.com/franzannakarolina/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ```
 
